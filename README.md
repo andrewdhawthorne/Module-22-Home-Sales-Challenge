@@ -15,11 +15,11 @@ In this challenge I used SparkSQL to answer the following questions about home s
 
 Answers were rounded to two decimal places. I also created temporary views, partitioned the data, cached and uncached a temporarly table, and verified that the table had been uncached. 
 
-I determined that the cached runtime was shorter than the uncached runtime, and the runtime on the partitioned formatted parque data was longer than both the cached and uncached runtimes. 
+I determined that the cached runtime was shorter than the uncached runtime, and the runtime on the partitioned formatted parquet data was longer than both the cached and uncached runtimes. 
 
 ### Sources: 
 
-#### Classmate: I worked with cohort member Fidel C on the majority of the assignment
+#### Classmate: I worked with cohort member Fidel C on this assignment
 
 #### Class Activites: 
 
